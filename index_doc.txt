@@ -1,0 +1,10 @@
+krishnagiri1||1BM18CS112 
+krishnagiri2||1BM18CS113
+krishnagiri3||1BM18CS114 
+krishnagiri4||1BM18CS115 
+krishnagiri5||1BM18CS116 
+krishnagiri6||1BM18CS117 
+krishnagiri7||1BM18CS118 
+krishnagiri8||1BM18CS119 
+krishnagiri9||1BM18CS120 
+krishnagiri10||1BM18CS121 
